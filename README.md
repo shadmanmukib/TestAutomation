@@ -81,7 +81,7 @@ The framework reflects real-world testing scenarios commonly used in enterprise 
 
 **_Product API Validation:_**
 
-•	Validate /api/products endpoint
+•	Validate **/api/products** endpoint
 
 •	Verify HTTP status code (200 OK)
 
